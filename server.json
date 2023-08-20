@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2023-08-10T20:14:45.899Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-08-13T20:14:45.899Z"
+    },
+    {
+      "description": "IPVA",
+      "price": 200,
+      "category": "Imposto",
+      "type": "outcome",
+      "createdAt": "2023-08-18T20:14:45.899Z",
+      "id": 3
+    },
+    {
+      "description": "IPTU",
+      "price": 1000,
+      "category": "Robo/Imposto",
+      "type": "outcome",
+      "createdAt": "2023-08-19T19:51:05.240Z",
+      "id": 4
+    },
+    {
+      "description": "Tocha",
+      "price": 60,
+      "category": "Paz",
+      "type": "outcome",
+      "createdAt": "2023-08-19T19:52:03.433Z",
+      "id": 5
+    },
+    {
+      "description": "Venda de cocaína",
+      "price": 200,
+      "category": "Investimento",
+      "type": "income",
+      "createdAt": "2023-08-19T19:53:03.755Z",
+      "id": 6
+    },
+    {
+      "description": "Estágio na Pechinchou",
+      "price": 500,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2023-08-19T19:58:26.205Z",
+      "id": 7
+    },
+    {
+      "description": "Skin lendária da Lux",
+      "price": 100,
+      "category": "Jogos",
+      "type": "outcome",
+      "createdAt": "2023-08-19T19:59:46.437Z",
+      "id": 8
+    }
+  ]
+}
